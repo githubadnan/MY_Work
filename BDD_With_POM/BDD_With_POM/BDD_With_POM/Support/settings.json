@@ -1,0 +1,11 @@
+{
+  "Environments": {
+    "Test-on": "UAT",
+    "UAT": "https://example.etc.com",
+    "PRODUCTION": ""
+  },
+  "Browsers": {
+    "browserName": "chrome",
+    "RunType": "head"
+  }
+}

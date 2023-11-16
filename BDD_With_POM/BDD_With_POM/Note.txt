@@ -1,0 +1,1 @@
+This is an example code of how to use BDD with POM which i have taken out from my actual project.
